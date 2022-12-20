@@ -1,0 +1,6 @@
+﻿  keeper.cpp
+  main.cpp
+C:\Users\79586\source\repos\Laba2\lab2\lab2\main.cpp(106,7): warning C4101: del_id: неиспользованная локальная переменная
+  SIGN.cpp
+  Создание кода...
+  lab2.vcxproj -> C:\Users\79586\source\repos\Laba2\lab2\x64\Debug\lab2.exe
